@@ -73,19 +73,6 @@
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=quocchienn&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-  ## 💰You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/quocchienn) 
-
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-  <div align="center">
-
-<img src="https://i.imgur.com/I5T0Zin.jpeg" alt="thanhdieu-banner" style="border-radius: 15px;">
-<div align="center">
-  <h1><pre>Hi, I'm 𝕋𝕙𝕒𝕟𝕙𝔻𝕚𝕖𝕦</pre></h1>
-</div>
-
 Though I am ordinary among many.
 
 I am still the one and only in this world!
